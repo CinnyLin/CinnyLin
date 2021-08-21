@@ -1,6 +1,12 @@
 <h1 align="center">Hiya! I'm Cinny <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<h3 align="center">a passionate data scientist and an aspiring product manager</h3>
+<h4 align="center"><i>I'm a...</i></h4>
+
+<h1 align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=data+scientist+for+social+good;aspiring+product+manager">
+  </a>
+</h1>
 
 - 👨‍💻 All of my projects are available at [http://cinnylin.github.io/](http://cinnylin.github.io/)
 
