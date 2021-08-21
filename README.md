@@ -8,6 +8,8 @@
   </a>
 </h1>
 
+<p align="center"><img src="https://profile-counter.glitch.me/CinnyLin/count.svg"/></p>
+
 - 👨‍💻 All of my projects are available at [http://cinnylin.github.io/](http://cinnylin.github.io/)
 
 - 📫 You can reach me at **ycl461@nyu.edu**
